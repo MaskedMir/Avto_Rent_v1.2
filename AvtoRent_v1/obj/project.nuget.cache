@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNXYBTSUAfw7y7Q9/6ytrNIH/y4oPMK6c/XB87nln+PUWVFQMKuZF8BQBPDNy6U+VQH2J2HCY1OB1U5X4MHWpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Masked\\RiderProjects\\AvtoRent_v1\\AvtoRent_v1\\AvtoRent_v1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masked\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",
+    "C:\\Users\\Masked\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
+    "C:\\Users\\Masked\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Masked\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\Masked\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Masked\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Masked\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
